@@ -834,13 +834,22 @@ img {
 
 ## OUTPUT:
 ![alt text](<Screenshot 2025-11-10 215549.png>)
-PAGE 1:
+
+## PAGE 1:
+
+
 ![alt text](<iPhone SE - 1.jpg>)
-PAGE 2:
+
+## PAGE 2:
+
 ![alt text](<Android Compact - 1.jpg>)
-PAGE 3:
+
+## PAGE 3:
+
 ![alt text](<Android Compact - 2.jpg>)
-PAGE 4:
+
+## PAGE 4:
+
 ![alt text](<Android Compact - 3.jpg>)
 
 
