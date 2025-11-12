@@ -359,6 +359,7 @@ img {
   border: 2px solid rgba(255, 247, 247, 1);
 }
 ```
+```
 REGISTRATION PAGE :
 
 <!DOCTYPE html>
